@@ -1,3 +1,3 @@
 # Hashcrack
 Hashcrack
-pip install -r install.txt
+pip install -r requirements.txt
